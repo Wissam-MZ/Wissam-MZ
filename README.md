@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wissam-MZ
-- 👀 I’m interested in Data Science for  Analytics
+- 👀 I’m interested in Data Science &  Analytics
 - 🌱 I’m use Machine Learning for my studies and projects 
 - 💞️ I’m looking to collaborate on Machine learning for marketing Analytics & HR Research  
 - 📫 How to reach me 
